@@ -9,10 +9,10 @@ Credits to @steffenrusten for creating the excel spreadsheet used for this proje
 
 # Beer
 The most recommended beer in the 2020's edition is the pickle beer with 34 food pairing recommendations, followed by the noon juice with 30.
-The mean beer price is $9.50 NZD.
+The mean beer price is NZD 9.50.
 
 # Burger Price
-The most expensive burger comes from Macs Brewbar and costs $100 NZD. The least expensive burger is shared by 1154 Pastaria, Bao Boy and, The little Waffle Shop, costing $12 NZD. The mean burger price of this edition is $22 NZD.
+The most expensive burger comes from Macs Brewbar and costs NZD 100. The least expensive burger is shared by 1154 Pastaria, Bao Boy and, The little Waffle Shop, costing NZD 12. The mean burger price of this edition is NZD 22.
 
 # Jupyter Notebook Viewer
 https://nbviewer.jupyter.org/github/LaraBruno/WOAP/blob/main/.ipynb_checkpoints/WellingtonOnaPlate-checkpoint.ipynb
